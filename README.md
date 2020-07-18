@@ -12,8 +12,7 @@
 </p>
 
 ### Programming Languages  :computer:
-|<img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/c++.png" width=60> | <img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/c.png" width=60> | <img 
-|:---:|:---:|
+<img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/c++.png" width=60>  <img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/c.png" width=60>  <img 
 
 
 ### Tools :hammer:
