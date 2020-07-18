@@ -21,4 +21,4 @@
 |:---:|:---:|:---:|
 
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=fulekylaszlo/fulekylaszlo)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fulekylaszlo.visitor-badge)
