@@ -17,7 +17,7 @@
 
 ## Tools :hammer:
 <img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/xcode.png" width=80>  <img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/atom.png" width=80> <img
-src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/git.png" width=70> 
+src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/git.png" width=75> 
 
 
 ## Contact me :blush:
