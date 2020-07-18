@@ -1,5 +1,5 @@
 
-## Hey Everyone :wave:  
+# Hey Everyone :wave:  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/prog.gif" width=150>
@@ -11,16 +11,16 @@
   </samp>
 </p>
 
-### Programming Languages  :computer:
-<img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/c++.png" width=60>  <img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/c.png" width=60>
+## Programming Languages  :computer:
+<img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/c++.png" width=80>  <img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/c.png" width=80>
 
 
-### Tools :hammer:
-<img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/xcode.png" width=60>  <img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/atom.png" width=60> <img
-src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/git.png" width=60> 
+## Tools :hammer:
+<img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/xcode.png" width=0>  <img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/atom.png" width=80> <img
+src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/git.png" width=80> 
 
 
-### Contact me :blush:
+## Contact me :blush:
 <a href="https://twitter.com/fuleky_laci">
   <img align="left" alt="Füleky Laci Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
