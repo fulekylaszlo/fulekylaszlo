@@ -12,12 +12,12 @@
 </p>
 
 ### Programming Languages  :computer:
-<img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/c++.png" width=60>  <img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/c.png" width=60>  <img 
+<img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/c++.png" width=60>  <img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/c.png" width=60>
 
 
 ### Tools :hammer:
-|<img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/xcode.png" width=60> | <img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/atom.png" width=60> | <img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/github.png" width=60> |
-|:---:|:---:|:---:|
+<img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/xcode.png" width=60>  <img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/atom.png" width=60> <img
+src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/github.png" width=60> 
 
 
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fulekylaszlo.visitor-badge)
