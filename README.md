@@ -26,7 +26,7 @@ src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/git.
 </a>
 <a href="https://www.reddit.com/user/fulekylaszlo">
   <img align="left" alt="Füleky Laci Reddit" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
-</a>
+</a>  
 
 
 
