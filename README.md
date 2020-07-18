@@ -17,7 +17,7 @@
 
 ### Tools :hammer:
 <img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/xcode.png" width=60>  <img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/atom.png" width=60> <img
-src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/github.png" width=100> 
+src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/git.png" width=100> 
 
 
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fulekylaszlo.visitor-badge)
