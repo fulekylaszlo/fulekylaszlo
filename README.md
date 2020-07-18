@@ -1,19 +1,24 @@
-### Hi there 👋
 
-<!--
-**fulekylaszlo/fulekylaszlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey Everyone :wave:  
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/proggif.gif" width=100>
+  <br><br>
+  <samp>
+    I'm currently a Third Year BSc student at <a href="http://https://www.inf.unideb.hu//">@DE-IK :school: </a>:computer:.
+    Interested in working on Software Development and Artificial Intelligence.
+    Occasionaly I do sleep :bulb: and I have a love/hate relationship with Programming :neutral_face:
+  </samp>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages  :rocket:
+|<img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/c++.png" width=60> | <img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/c.jpg" width=60> | <img 
+|:---:|:---:|:---:|
 
 
-Heyooo, heyooo, heyyooooo!
+### Tools :fire:
+|<img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/xcode.png" width=60> | <img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/atom.png" width=60> | <img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Picgithub.png" width=60> |
+|:---:|:---:|:---:|
+
+
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=fulekylaszlo/fulekylaszlo)
