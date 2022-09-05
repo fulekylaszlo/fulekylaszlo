@@ -2,21 +2,10 @@
 # Hey Everyone :wave:  
 
 <p align="center">
-  <samp>
-    I'm currently a Third Year BSc student at <a href="http://www.inf.unideb.hu">@DE-IK</a> :school:.
-    Interested in working on Software Development and Artificial Intelligence.
-    Occasionaly I do sleep :zzz: and I have a love/hate relationship with Programming :neutral_face:
+  <samp>  
+    I have a love-hate relationship with programming and blockchain technology. In my spare time I work as a self-taught On-Chain Analyst. :neutral_face:
   </samp>
 </p>
-
-## Programming Languages  :computer:
-<img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/c++.png" width=80>  <img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/c.png" width=80>
-
-
-## Tools :hammer:
-<img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/xcode.png" width=80>  <img src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/atom.png" width=80> <img
-src="https://raw.githubusercontent.com/fulekylaszlo/fulekylaszlo/master/Pic/git.png" width=75> 
-
 
 ## Contact me :blush:
 <a href="https://twitter.com/fuleky_laci">
