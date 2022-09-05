@@ -3,7 +3,7 @@
 
 <p align="center">
   <samp>  
-    I have a love-hate relationship with programming and blockchain technology. In my spare time I work as a self-taught On-Chain Analyst. :neutral_face:
+    I have a love-hate relationship with programming and blockchain technology. In my spare time I work as a self-taught On-Chain Analyst.
   </samp>
 </p>
 
